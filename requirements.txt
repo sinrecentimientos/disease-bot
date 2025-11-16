@@ -1,0 +1,5 @@
+nextcord==2.6.0
+aiohttp
+requests
+setuptools
+fade
